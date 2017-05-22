@@ -99,7 +99,7 @@
     },
     {
       "component": "header",
-      "heading": "test",
+      "heading": "Compositor website",
       "subhead": "This is only a test",
       "children": [
         {
@@ -111,6 +111,16 @@
           "component": "ui/GithubButton",
           "user": "Kubrick",
           "repo": "test"
+        }
+      ],
+      "image": "",
+      "backgroundImage": "https://unsplash.it/4000/?random",
+      "slug": "",
+      "text": "",
+      "links": [
+        {
+          "href": "",
+          "text": "CTA Button"
         }
       ]
     },
